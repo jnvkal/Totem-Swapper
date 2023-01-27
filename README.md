@@ -1,4 +1,5 @@
 # Totem Swapper
+![alt text](src/main/resources/totemswaper.png)
 ## Description
 Mega krutich mod for swapping Totem to offhand special for Kokord
 
